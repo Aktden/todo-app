@@ -1,0 +1,8 @@
+build/
+*.o
+*.d
+*.out
+*.exe
+tasks.dat
+.cache/
+compile_commands.json
